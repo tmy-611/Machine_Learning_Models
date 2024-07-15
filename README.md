@@ -1,20 +1,18 @@
-# house_pricing
-Build a Machine Learning model in Spark and Java to predict the house pricing.
-
-I am working with dataset from:
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
-
-In this project, I follow each steps below:
-1. Define the purpose
-- Build a Machine Learning model for practicing and improving skill
-- Use the Regression Model
-2. Explore and Preprocessing data
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Feature Engineering
-- Data Splitting
-3. Select and build a model
-4. Train the model
-5. Evaluate the model
-6. Tune the model
-7. Save model
+# Machine Learning Models
+1. What does the project do?
+- With each dataset, build a correlation model for predicting the target variable.
+- Consist of the following basic steps:
+    a. Data Exploration
+    b. Feature Selection
+    c. Data Preprocessing
+    d. Feature Engineering
+    e. Choose and Tune the suitable Model
+    f. Evaluate the model
+    g. Plot the Result
+2. Why did I create this project?
+-  Mainly for practicing data analysis skills.
+- Gain experience with different datasets.
+- The model might not be clean and well-constructed, but this is the best I could do now.
+3. Information about this project
+- In each file, I will put some information about the languages and tools I use to implement the model.
+- I use Visual Studio Code to do the task and install some useful packages behind the scenes. Therefore, some of the import commands do not work well in Google Colab. Please run the code in VSCode or Jupyter.
