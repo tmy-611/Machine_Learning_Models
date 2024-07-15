@@ -10,7 +10,7 @@
     f. Evaluate the model
     g. Plot the Result
 2. Why did I create this project?
--  Mainly for practicing data analysis skills.
+- Mainly for practicing data analysis skills.
 - Gain experience with different datasets.
 - The model might not be clean and well-constructed, but this is the best I could do now.
 3. Information about this project
