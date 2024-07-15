@@ -2,13 +2,13 @@
 1. What does the project do?
 - With each dataset, build a correlation model for predicting the target variable.
 - Consist of the following basic steps:
-    a. Data Exploration
-    b. Feature Selection
-    c. Data Preprocessing
-    d. Feature Engineering
-    e. Choose and Tune the suitable Model
-    f. Evaluate the model
-    g. Plot the Result
+    - Data Exploration
+    - Feature Selection
+    - Data Preprocessing
+    - Feature Engineering
+    - Choose and Tune the suitable Model
+    - Evaluate the model
+    - Plot the Result
 2. Why did I create this project?
 - Mainly for practicing data analysis skills.
 - Gain experience with different datasets.
